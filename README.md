@@ -9,7 +9,7 @@ Note: From w/in Android Studio
 - go to file -> project structure -> suggestions -> accept all update suggestions
   
   
-# Git: clone, status, add, commit, push, pull
+# Git (quick view): clone, status, add, commit, push, pull
 Git is the most popular version control system and we’ll use GitHub to release assignments and to receive your submissions.  
   
 It is essential that you understand:  
