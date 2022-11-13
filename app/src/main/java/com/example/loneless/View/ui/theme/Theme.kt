@@ -1,4 +1,4 @@
-package com.example.csci201_fpp_team_16_code.View.ui.theme
+package com.example.loneless.view.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
@@ -28,7 +28,7 @@ private val LightColorPalette = lightColors(
 )
 
 @Composable
-fun CSCI201_FPP_Team_16_codeTheme(
+fun LonelessTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     content: @Composable () -> Unit
 ) {
