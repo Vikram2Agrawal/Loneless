@@ -15,8 +15,8 @@ Git is the most popular version control system and we’ll use GitHub to release
 It is essential that you understand:  
   
 How to clone a repository: git clone git@github.com:Vikram2Agrawal/Loneless  
-The difference between the history (graph of previous commits), the index (draft of next commit), the working directory (files currently in the directory).
-How to check which files have changed (git status)
-How to add file changes to the index (git add .)
-How to commit changes that you added to the index (git commit -m "Add assignment files")
+The difference between the history (graph of previous commits), the index (draft of next commit), the working directory (files currently in the directory).  
+How to check which files have changed (git status)  
+How to add file changes to the index (git add .)  
+How to commit changes that you added to the index (git commit -m "Add assignment files")  
 How to push local commits (git push) and pull remote ones (git pull)  
