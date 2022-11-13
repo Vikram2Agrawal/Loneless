@@ -1,4 +1,4 @@
-package com.example.csci201_fpp_team_16_code.View.ui.theme
+package com.example.loneless.view.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
