@@ -10,7 +10,7 @@ Note: From w/in Android Studio
   
   
 # Git (quick view): clone, status, add, commit, push, pull
-Git is the most popular version control system and we’ll use GitHub to release assignments and to receive your submissions.  
+Git is the most popular version control system and we’ll use GitHub to manage our project's codebase.  
   
 It is essential that you understand:  
   
