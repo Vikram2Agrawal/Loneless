@@ -20,4 +20,4 @@ How to check which files have changed (`git status`)
 How to add file changes to the index (`git add .`)  
 How to commit changes that you added to the index (`git commit -m "Add assignment files"`)  
 How to push local commits (git push) and pull remote ones (`git pull`)  
-[Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes)
+Check out [Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes) if you need additional info.  
