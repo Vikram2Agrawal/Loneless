@@ -1,4 +1,5 @@
 # Loneless
+## Setting up coding environment
 Android studio IDE version: dolphin 2021.3.1  
 Kotlin plugin version: 1.7.20  
 Gradle version: 7.5.1  
@@ -9,7 +10,7 @@ Note: From w/in Android Studio
 - go to file -> project structure -> suggestions -> accept all update suggestions
   
   
-# Git: clone, status, add, commit, push, pull
+## Git: clone, status, add, commit, push, pull
 Git is the most popular version control system and we’ll use GitHub to manage our project's codebase.  
   
 It is essential that you understand:  
